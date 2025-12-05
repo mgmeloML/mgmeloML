@@ -1,7 +1,5 @@
 # Hi, I'm **Mgmelo_ML** 👋
 
-I'm an AI student at **King's College London (KCL)** with a passion for building intelligent systems and exploring the boundaries of modern machine learning.
-
 ## 🧠 About Me
 
 * 🎓 Studying **Artificial Intelligence** at KCL
