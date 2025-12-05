@@ -1,20 +1,31 @@
-# 👋 Hey there!
+# Hi, I'm **Mgmelo_ML** 👋
 
-Welcome to my GitHub spot — still a work-in-progress, but we're getting there.
+I'm an AI student at **King's College London (KCL)** with a passion for building intelligent systems and exploring the boundaries of modern machine learning.
 
-## 🌱 What I'm up to
-- Building out my projects and figuring out what I want this space to look like  
-- Organizing stuff so it’s not total chaos (…eventually)
+## 🧠 About Me
 
-## 🔧 Tech & Tools
-Just the essentials for now:
-- GitHub (obviously)
-- Whatever languages or tools I decide to flex here later
+* 🎓 Studying **Artificial Intelligence** at KCL
+* 🐍 Skilled in **Python**, with experience across the ML/AI and data science ecosystem
+* 📚 Comfortable with tools and libraries like **NumPy**, **Pandas**, **PyTorch**, **TensorFlow**, **scikit-learn**, and more
+* ⚡ Building backend services with **FastAPI**
+* 🤖 Interested in **Generative AI**, **agentic systems**, and emerging AI architectures
+* 🎵 I play instruments and enjoy creative problem solving
 
-## 📌 Goals
-- Drop more polished projects
-- Add some fun automation, visuals, or a portfolio section
-- Make this README way cooler than it is right now
+## 🔧 What I Like Working On
 
-## 🗂️ More coming soon
-This is just a placeholder until I have the perfect vibe going. Stay tuned 😎
+* ML/AI projects that push my understanding of models and systems
+* Experimenting with GenAI workflows and agent-based patterns
+* Small tools, prototypes, and notebooks where I test ideas
+
+## 🚀 Current Focus
+
+* Learning more about practical GenAI deployment and agent frameworks
+* Improving my skills in end-to-end ML development
+* Exploring ways to combine creativity, engineering, and AI
+
+## 📫 Connect
+
+If you want to reach out or collaborate, feel free to contact me through GitHub or any linked socials.
+
+Thanks for visiting my profile!
+
