@@ -15,12 +15,6 @@
 * Experimenting with GenAI workflows and agent-based patterns
 * Small tools, prototypes, and notebooks where I test ideas
 
-## 🚀 Current Focus
-
-* Learning more about practical GenAI deployment and agent frameworks
-* Improving my skills in end-to-end ML development
-* Exploring ways to combine creativity, engineering, and AI
-
 ## 📫 Connect
 
 If you want to reach out or collaborate, feel free to contact me through GitHub or any linked socials.
