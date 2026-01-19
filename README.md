@@ -5,9 +5,8 @@
 * 🎓 Studying **Artificial Intelligence** at KCL
 * 🐍 Skilled in **Python**, with experience across the ML/AI and data science ecosystem
 * 📚 Comfortable with tools and libraries like **NumPy**, **Pandas**, **PyTorch**, **TensorFlow**, **scikit-learn**, **FastMCP** and more
-* ⚡ Building backend services with **FastAPI**
 * 🤖 Interested in **Generative AI**, **agentic systems**, and emerging AI architectures
-* 🎵 I play instruments and enjoy creative problem solving
+* 🎵 I play instruments and enjoy problem solving
 
 ## 🔧 What I Like Working On
 
